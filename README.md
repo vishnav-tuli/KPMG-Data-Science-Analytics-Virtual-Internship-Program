@@ -19,3 +19,23 @@ The KPMG AU Data Analytics Virtual Internship mirrors a genuine data analytics p
 - Data Quality Assessment
 - Data Insights
 - Data Insights and Presentation
+
+## Structure of This Repository:
+
+1. Data Quality Assessment: In this section, you'll find:
+
+The dataset provided for the internship project.
+A folder containing cleaned data in .csv format, accompanied by its .ipynb file with code and documentation.
+The merged csv file for data analysis.
+Solutions for the first task in both .docx and .pdf formats.
+Data Insights: This directory comprises:
+
+2. The template for task 2.
+The solution for the task in .pptx format.
+The 'data analysis' file for interpretation and charts.
+
+3. Data Insights and Presentation: This section includes visualizations and dashboards created during the internship in .twbx format using Tableau. It also contains xlsx files of current and target customers for further data analysis.
+
+Certificate of Completion_Priyanka Chandramohan: This holds the certificate of completion from KPMG AU and Forage.
+
+
