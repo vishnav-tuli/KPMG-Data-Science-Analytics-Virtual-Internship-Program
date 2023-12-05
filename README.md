@@ -24,17 +24,18 @@ The KPMG AU Data Analytics Virtual Internship mirrors a genuine data analytics p
 
 1. Data Quality Assessment: In this section, you'll find:
 
-The dataset provided for the internship project.
+- The dataset provided for the internship project.
 A folder containing cleaned data in .csv format, accompanied by its [Task1_KPMG_VishnavTuli.pdf](https://github.com/vishnav-tuli/KPMG-Data-Science-Analytics-Virtual-Internship-Program/files/13565195/Task1_KPMG_VishnavTuli.pdf)
  with code and documentation.
 The merged csv file for data analysis.
 
-2. The template for task 2.
-The solution for the task in .pptx format.
+2. The template for task 2:
+
+- The solution for the task in .pptx format.
 [Task2_KPMG_DataInsights.pptx](https://github.com/vishnav-tuli/KPMG-Data-Science-Analytics-Virtual-Internship-Program/files/13565202/Task2_KPMG_DataInsights.pptx)
 The 'data analysis' file for interpretation and charts.
 
-3. Data Insights and Presentation: This section includes visualizations and dashboards created during the internship in .twbx format using Tableau. It also contains xlsx files of current and target customers for further data analysis.
+4. Data Insights and Presentation: This section includes visualizations and dashboards created during the internship in .twbx format using Tableau. It also contains xlsx files of current and target customers for further data analysis.
 [Task3_DataInsightPresentation_VishnavTuli.pptx](https://github.com/vishnav-tuli/KPMG-Data-Science-Analytics-Virtual-Internship-Program/files/13565207/Task3_DataInsightPresentation_VishnavTuli.pptx)
 
 
