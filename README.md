@@ -37,11 +37,11 @@ A pdf file report containing about data quality assessment, accompanied by its [
 [Task2_KPMG_DataInsights.pptx](https://github.com/vishnav-tuli/KPMG-Data-Science-Analytics-Virtual-Internship-Program/files/13565202/Task2_KPMG_DataInsights.pptx)
 The 'data analysis' file for interpretation and charts.
 
-4. Data Insights and Presentation: This section includes visualizations and dashboards created during the internship using Tableau. It also contains a ppt of current and target customers for further data analysis.
+3. Data Insights and Presentation: This section includes visualizations and dashboards created during the internship using Tableau. It also contains a ppt of current and target customers for further data analysis.
 [Task3_DataInsightPresentation_VishnavTuli.pptx](https://github.com/vishnav-tuli/KPMG-Data-Science-Analytics-Virtual-Internship-Program/files/13565207/Task3_DataInsightPresentation_VishnavTuli.pptx)
 
 
-Certificate of Completion_VishnavTuli: This holds the certificate of completion from KPMG AU and Forage.
+4. Certificate of Completion_VishnavTuli: This holds the certificate of completion from KPMG AU and Forage.
 [VishnavTuli_completion_certificate.pdf](https://github.com/vishnav-tuli/KPMG-Data-Science-Analytics-Virtual-Internship-Program/files/13565208/VishnavTuli_completion_certificate.pdf)
 
 
